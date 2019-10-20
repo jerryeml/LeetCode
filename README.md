@@ -1,3 +1,2 @@
-# LeetCode
-Programming on LeetCode
+# LeetCode >> Programming on LeetCode
 * https://leetcode.com/contest/
